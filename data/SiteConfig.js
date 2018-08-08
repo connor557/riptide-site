@@ -24,19 +24,19 @@
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/Vagr9K/gatsby-material-starter",
+      url: "https://github.com/connor557/inthings-site",
       iconClassName: "fa fa-github"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/Vagr9K",
+      url: "https://twitter.com/connor5575",
       iconClassName: "fa fa-twitter"
     },
     {
       label: "Email",
-      url: "mailto:vagr9k@gmail.com",
+      url: "mailto:cobrien@inthings.cf",
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2017. Material User" // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2017. CSG Systems" // Copyright string for the footer of the website and RSS feed.
 };
